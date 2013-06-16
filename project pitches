@@ -1,0 +1,18 @@
+<html>
+<head>
+</head>
+<body>
+<h1>Data Project Pitches</h1>
+	<h4>NYC Parks Food Inspections</h4>
+	<p>How did the snack bars, food stands and restaurants in New York City's parks do on their inspections? By comparing the list of <a href="https://github.com/mcgrath/Food-Tech-Hackathon/tree/master/nyc.gov/">all eateries in NYC parks</a> with the <a href="https://github.com/mcgrath/Food-Tech-Hackathon/tree/master/nyc.gov/dohmh_restaurant-inspections_002">database of restaurant inspections</a>, I'll see if there were any problem locations, or if the parks are generally free of violations. 
+	</p>
+	<h4>Gene data</h4>
+	<p>In the wake of the Supreme Court case Association for Molecular Pathology v. Myriad Genetics, Inc., many companies have lost patent protection on entire genes. How many genes had been patented? Which institutions or companies lost the most intellectual property? My data may come from the following sources
+	<ul>
+	<li><a href="http://www.uspto.gov/patents/resources/tools/checker/index.jsp">Patent Checker</a></li>
+	<li><a href="http://www.uspto.gov/patents/resources/geneticsequences.jsp">US Patent Office Database of genetic sequences</a></li>
+	<li><a href="https://usgene.sequencebase.com/blast_search">GeneBase</a></li>
+	</ul>
+	</p>
+</body>
+</html>
