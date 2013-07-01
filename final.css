@@ -1,0 +1,51 @@
+body {
+	font-family: 'MetaSerifWeb-Book',georgia, serif;
+	margin: auto;
+
+}
+
+.top {
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	font-variant: small-caps;
+	padding-bottom: 20px
+
+}
+
+.lede {
+	width: 600px;
+	margin: auto;
+	padding-bottom: 20px;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+h2.lede	{
+	font-size: 14pt;
+}
+
+p.lede {
+	font-family: arial, arial, sans-serif;
+}
+
+h3 {
+	color: gray;
+}
+
+.tablehead {
+	font-weight: bold;
+}
+
+table,th,td {
+	border: 1px solid black;
+}
+
+td.grants {
+	text-align: center;
+}
+
+td.money {
+	text-align: right;
+	font-family: Courier, monospace;
+}
